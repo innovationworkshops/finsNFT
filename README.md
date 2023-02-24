@@ -85,5 +85,6 @@ Then we need to run the truffle migrate to migrate to the testnet e.g. ropsten: 
 - Metamask
 - IPFS: Inter Planetary File System - When we mint or create a NFT, the state and the logic (Smart Contract) gets stored in the blocks - but a distributed filesystem is needed to store the related media and this is what IPFS provides. Pinata is one of the easy frameworks to integrate IPFS in our dApp.
 
-
+## Reference
+Link to reading material and tutorials in my blog post: <a href= "https://www.appcloud101.com/how-dapps-are-revolutionizing-the-user-experience-with-blockchain-technology-a-working-example/"> How dApps are Revolutionizing the User Experience with Blockchain Technology: A Working Example</a>
 ### Thank you
